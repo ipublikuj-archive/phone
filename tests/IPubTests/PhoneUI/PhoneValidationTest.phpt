@@ -283,7 +283,7 @@ class PhoneValidationTest extends Tester\TestCase
 	}
 
 	/**
-	 * @throws \IPub\Phone\Exceptions\NoValidCountryException
+	 * @throws \IPub\PhoneUI\Exceptions\NoValidCountryException
 	 */
 	public function testValidatePhoneNoDefaultCountryNoCountryField()
 	{
@@ -317,7 +317,7 @@ class PhoneValidationTest extends Tester\TestCase
 	}
 
 	/**
-	 * @throws \IPub\Phone\Exceptions\InvalidParameterException
+	 * @throws \IPub\PhoneUI\Exceptions\InvalidParameterException
 	 */
 	public function testValidatePhoneFaultyParameters()
 	{
@@ -342,7 +342,7 @@ class PhoneValidationTest extends Tester\TestCase
 	}
 
 	/**
-	 * @throws \IPub\Phone\Exceptions\InvalidArgumentException
+	 * @throws \IPub\PhoneUI\Exceptions\InvalidArgumentException
 	 */
 	public function testValidatorOnWrongControl()
 	{
