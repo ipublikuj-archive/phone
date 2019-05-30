@@ -16,7 +16,7 @@ After that you have to register extension in config.neon.
 
 ```neon
 extensions:
-    phone: IPub\PhoneUI\DI\PhoneUIExtension
+    phoneUI: IPub\PhoneUI\DI\PhoneUIExtension
 ```
 
 And do not forget to register [ipub/phone](https://github.com/ipublikuj/phone) extension too:

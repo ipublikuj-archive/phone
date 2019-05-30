@@ -26,7 +26,7 @@ extensions:
 
 ## Documentation
 
-Learn how to format and validate phone numbers in [documentation](https://github.com/ipublikuj-ui/phone/blob/master/docs/en/index.md).
+Learn how to format phone numbers in templates and how validate phone numbers in [documentation](https://github.com/ipublikuj-ui/phone/blob/master/docs/en/index.md).
 
 ***
 Homepage [http://www.ipublikuj.eu](http://www.ipublikuj.eu) and repository [http://github.com/ipublikuj-ui/phone](http://github.com/ipublikuj-ui/phone).

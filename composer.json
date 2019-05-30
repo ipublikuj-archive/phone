@@ -1,13 +1,15 @@
 {
   "name" : "ipub/phone-ui",
   "type" : "library",
-  "description" : "Phone helper & validator for Nette Framework",
+  "description" : "Phone extension template helpers & form validator for Nette Framework",
   "keywords" : [
     "nette",
     "phone",
     "tools",
     "ipub",
-    "ipublikuj"
+    "ipublikuj",
+    "latte",
+    "template"
   ],
 
   "homepage" : "https://github.com/ipublikuj-ui/phone",
