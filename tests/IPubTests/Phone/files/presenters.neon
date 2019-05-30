@@ -1,0 +1,10 @@
+application:
+	mapping:
+		*: IPubTests\PhoneUI\*Presenter
+
+services:
+	# Test presenter
+	presenters.test:
+		class: IPubTests\PhoneUI\TestPresenter
+
+	router: IPubTests\PhoneUI\Libs\RouterFactory::createRouter
