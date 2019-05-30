@@ -3,9 +3,9 @@
 [![Build Status](https://img.shields.io/travis/ipublikuj-ui/phone.svg?style=flat-square)](https://travis-ci.org/ipublikuj-ui/phone)
 [![Scrutinizer Code Coverage](https://img.shields.io/scrutinizer/coverage/g/ipublikuj-ui/phone.svg?style=flat-square)](https://scrutinizer-ci.com/g/ipublikuj-ui/phone/?branch=master)
 [![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/ipublikuj-ui/phone.svg?style=flat-square)](https://scrutinizer-ci.com/g/ipublikuj-ui/phone/?branch=master)
-[![Latest Stable Version](https://img.shields.io/packagist/v/ipub/phone.svg?style=flat-square)](https://packagist.org/packages/ipub/phone)
-[![Composer Downloads](https://img.shields.io/packagist/dt/ipub/phone.svg?style=flat-square)](https://packagist.org/packages/ipub/phone)
-[![License](https://img.shields.io/packagist/l/ipub/phone.svg?style=flat-square)](https://packagist.org/packages/ipub/phone)
+[![Latest Stable Version](https://img.shields.io/packagist/v/ipub/phone-ui.svg?style=flat-square)](https://packagist.org/packages/ipub/phone-ui)
+[![Composer Downloads](https://img.shields.io/packagist/dt/ipub/phone-ui.svg?style=flat-square)](https://packagist.org/packages/ipub/phone-ui)
+[![License](https://img.shields.io/packagist/l/ipub/phone-ui.svg?style=flat-square)](https://packagist.org/packages/ipub/phone-ui)
 
 [Phone extension](http://github.com/ipublikuj/phone) template helper & form validator for [Nette Framework](http://nette.org/)
 
