@@ -1,5 +1,5 @@
 {
-  "name" : "ipub/phone-ui",
+  "name" : "xsuchy09/phone-ui",
   "type" : "library",
   "description" : "Phone extension template helpers & form validator for Nette Framework",
   "keywords" : [
@@ -45,24 +45,24 @@
   "require" : {
     "php" : ">=7.2.0",
 
-    "nette/application" : "~2.4",
-    "nette/di" : "~2.4",
-    "nette/utils" : "~2.4",
-    "nette/forms" : "~2.4",
+    "nette/application" : "^3.0",
+    "nette/di" : "^3.0",
+    "nette/utils" : "^3.0",
+    "nette/forms" : "^3.0",
 
-    "latte/latte" : "~2.4",
+    "latte/latte" : "^2.5",
 
-    "ipub/phone" : "^2.0"
+    "xsuchy09/phone" : "^3.0"
   },
 
   "require-dev" : {
-    "nette/bootstrap" : "~2.4",
-    "nette/mail" : "~2.4",
-    "nette/robot-loader" : "~2.4",
-    "nette/safe-stream" : "~2.3",
-    "nette/tester" : "~2.0",
+    "nette/bootstrap" : "^3.0",
+    "nette/mail" : "^3.0",
+    "nette/robot-loader" : "^3.0",
+    "nette/safe-stream" : "^2.4",
+    "nette/tester" : "^2.0",
 
-    "tracy/tracy" : "~2.4",
+    "tracy/tracy" : "^2.6",
 
     "pds/skeleton" : "~1.0"
   },
