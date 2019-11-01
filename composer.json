@@ -1,5 +1,5 @@
 {
-  "name" : "xsuchy09/phone-ui",
+  "name" : "ipub/phone-ui",
   "type" : "library",
   "description" : "Phone extension template helpers & form validator for Nette Framework",
   "keywords" : [
@@ -52,7 +52,7 @@
 
     "latte/latte" : "^2.5",
 
-    "xsuchy09/phone" : "^3.0"
+    "ipub/phone" : "^3.0"
   },
 
   "require-dev" : {
